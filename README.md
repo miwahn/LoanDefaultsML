@@ -7,4 +7,4 @@ The purpose was to:
 * provide some actionable recommendations
 * highlight the limitations of the model
 
-
+Disclaimer: this is by no means not Production-level code but a simple prototype for the case study. It was built in a week so likely to include a few errors or useless functions here and there - feel free to send your comments.
